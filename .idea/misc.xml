@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/1UGM/TRPL/Semester4/matkul/PPPB2/1/TugasFragment/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
-        <entry key="..\:/1UGM/TRPL/Semester4/matkul/PPPB2/1/TugasFragment/app/src/main/res/layout/fragment_statis.xml" value="0.17074275362318841" />
+        <entry key="..\:/1UGM/TRPL/Semester4/matkul/PPPB2/1/TugasFragment/app/src/main/res/drawable/borderteks.xml" value="0.1115" />
+        <entry key="..\:/1UGM/TRPL/Semester4/matkul/PPPB2/1/TugasFragment/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/1UGM/TRPL/Semester4/matkul/PPPB2/1/TugasFragment/app/src/main/res/layout/fragment_dinamis.xml" value="0.20368239355581128" />
+        <entry key="..\:/1UGM/TRPL/Semester4/matkul/PPPB2/1/TugasFragment/app/src/main/res/layout/fragment_statis.xml" value="0.18" />
       </map>
     </option>
   </component>

@@ -20,13 +20,21 @@
             android:textStyle="bold"
             android:textColor="@color/black"/>
 
+        <ImageView
+            android:layout_width="112dp"
+            android:layout_height="99dp"
+            android:src="@drawable/r15m"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/deskripsi_r15m"
-            android:textSize="15dp"
+            android:textSize="14dp"
             android:layout_marginTop="25dp"
-            android:layout_marginHorizontal="40dp"/>
+            android:layout_marginHorizontal="40dp"
+            android:layout_marginBottom="50dp"/>
     </LinearLayout>
 
 </FrameLayout>
